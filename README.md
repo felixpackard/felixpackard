@@ -5,4 +5,5 @@ I'm an avid Rust enthusiast and eternally addicted to learning new things.
 [`📫 fjpackard@gmail.com`](mailto:fjpackard@gmail.com)
 [`🦋 @felixpackard.dev`](https://bsky.app/profile/felixpackard.dev)
 [`🐦 @felixpackard_`](https://x.com/felixpackard_)
+[`💬 felixpackard.17`](https://signal.me/#eu/S9ob9hwJucHnKGzazl9n-ZlMzzAsKaHx_-Ls0mV6_JtkHdMUixdBQo_ONWaRWq-f)
 [`🤓 My PC setup`](https://rigr.gg/b/games-code)
